@@ -21,7 +21,7 @@ highlighter: rouge
 collections:
   portfolio:
     output: true
-#    permalink: /portfolio/:path/
+    permalink: /:path/
 
   #poetry:
   #  output: true
