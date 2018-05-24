@@ -13,14 +13,14 @@ markdown: kramdown
 
 highlighter: rouge
 
-# Pagination
+#Pagination
 #paginate: 15
 #paginate_path: "/blog/page:num/"
 
 
-#collections:
-#  portfolio:
-#    output: true
+collections:
+  portfolio:
+    output: true
 #    permalink: /portfolio/:path/
 
   #poetry:
