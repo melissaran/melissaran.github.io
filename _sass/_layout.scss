@@ -2,10 +2,17 @@
 /**
  * Site header   **********************************************************
  */
+
+
+
+
 .site-header {
 //border-bottom: 1px solid $grey-color-light;
-border-style: 1px solid $grey-color-light;
+border-style: solid;
+border-width: thin;
+border-color: $grey-color-light;
 border-radius: 15px;
+
 background-color: #fff;
 opacity: 0.75;
 position:fixed;
