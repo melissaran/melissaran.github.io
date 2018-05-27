@@ -4,7 +4,7 @@
  */
 .site-header {
 //border-bottom: 1px solid $grey-color-light;
-border-style: hidden;
+border-style: 1px solid $grey-color-light;
 border-radius: 15px;
 background-color: #fff;
 opacity: 0.75;
@@ -27,7 +27,7 @@ color: $theme-color;
     }
 }
 .site-nav {
-float: right;
+float: bottom;
 line-height: $nav-height;
 .page-link{
 line-height: $base-line-height;
