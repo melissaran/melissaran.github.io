@@ -12,20 +12,21 @@ dl, dd, ol, ul, figure {
 
 /** Variables **********************************************/
 $base-font-family:              Helvetica, sans-serif;
+$header-font-family:            'Vidaloka', serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
-$img_spacing: 5px; 
+$img_spacing: 5px;
 $img_height: 275px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
 
 /* COLORS  */
 $red:  #FF3636;
-$orange: #F29105;
+$orange: rgba(255,210,110,1);
 $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
@@ -37,8 +38,17 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   rgba(255,100,100,1);
+$theme-color-light: rgba(255,100,80,1);
+$theme-color-lightdark:rgba(200,30,40,1);
 
+//$theme-color:   $orange;
+//$theme-color-lightdark: rgba(255,170,70,1);
+//$theme-color-dark:rgba(255,100,60,1);
+
+//$theme-color:   $grey-color-light;
+//$theme-color-lightdark: $grey-color;
+//$theme-color-dark:rgba(255,100,60,1);
 
 /************************************************************/
 
@@ -114,6 +124,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
     font-weight: 100;
 }
 
@@ -126,7 +137,7 @@ a {
     text-decoration: none;
     /*
     &:visited {
-        color: darken($brand-color, 15%); 
+        color: darken($brand-color, 15%);
     }
     */
     &:hover {
@@ -169,8 +180,8 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border-radius: 3px;
-    background-color: $grey-color-light;
+    //border-radius: 3px;
+    //background-color: $grey-color-light;
 }
 
 code {
@@ -180,8 +191,8 @@ code {
 pre {
     padding: 8px 12px;
     overflow-x: scroll;
-
     > code {
+
         border: 0;
         padding-right: 0;
         padding-left: 0;
@@ -192,7 +203,7 @@ pre {
 
 /**
  * Wrapper
- */ 
+ */
 
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -201,6 +212,7 @@ pre {
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
+    text-align: center;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -223,6 +235,3 @@ pre {
         clear: both;
     }
 }
-
-
-
