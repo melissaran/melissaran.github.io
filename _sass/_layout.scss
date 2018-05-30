@@ -3,9 +3,8 @@
  * Site header   **********************************************************
  */
 
-
-
  .icon-bar {
+   overflow: hidden;
    border-style: hidden;
    //border-width: thin;
    //border-color: white;
@@ -20,7 +19,7 @@
 
    top: 10px;
 box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
-   z-index: 50;
+   z-index: 900;
  }
 
  .icon-bar a {
@@ -98,7 +97,7 @@ padding-top: 100px;
     text-align: center;
     //padding-top: 25px;
     line-height: 3em;
-    z-index: 25;
+    z-index: 30;
     h1{
         color: white;
         font-size:75px;
@@ -236,26 +235,38 @@ display: table;
 clear: both;
 }
 .project {
-width: 33.33%;
-height: 250px;
+width: calc(33.33% - 10px);
+height: 230px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
-padding: 10px;
-padding-top: 20px;
+margin-right: 5px;
+margin-left: 5px;
+margin-top: 10px;
+
+
+//padding-top: 20px;
+//padding-bottom: 20px;
+z-index: 999;
+border-radius: 10px;
+border-style: hidden;
+overflow: hidden;
+
 }
 .thumbnail{
-
+//z-index: 1000;
 width: 100%;
 height: 230px;
 overflow: hidden;
-border-radius: 10px;
+//border-radius: 10px;
+
 }
 .thumbnail img{
+//z-index: 120;
 width: 500px;
 height: auto;
 position: relative;
-left: -25%;
+left: -50%;
 top: -5%;
 
 }
@@ -265,7 +276,6 @@ float: left;
 position: relative;
 width: 100%;
 height: 230px;
-border-radius: 10px;
 }
 .thumbnail a span {
 transition: opacity 0.3s ease; /* Add transition for hover effects */

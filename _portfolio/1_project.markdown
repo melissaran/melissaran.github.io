@@ -2,54 +2,32 @@
 layout: post
 title: anytown
 description: random modular city, take one
-img: /img/12.jpg
+img: /img/anytown01.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Project of winter, 2017. Second major human habitat project.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic.
+	<img class="col three" src="{{ site.baseurl }}/img/anytown01.png" alt="" title="example image"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lz2xBW96flg?vq=hd720" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/anytown1.png" alt="" title="screenshot"/>
+	<img class="col one" src="{{ site.baseurl }}/img/anytown3.png" alt="" title="screenshot"/>
+	<img class="col one" src="{{ site.baseurl }}/img/anytown4.png" alt="" title="screenshot"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Screenshots from iPhone and desktop versions.
 </div>
 
 
-<br/><br/><br/>
+Computer-generated towns, random from terrain to each individual window. Everything is random-- linear parks, building colors, flying flower pots. Grid-based.
+<br />
+Check it out on <a href="https://melissaran.itch.io/anytown">itch.io</a>, <a href="https://play.google.com/store/apps/details?id=com.melissaran.Anytown">the Play Store</a>, and <a href="https://itunes.apple.com/us/app/anytown/id1339902309?mt=8">the App Store</a>.
 
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/anytown2.png" alt="" title="screenshot"/>
+	<img class="col one" src="{{ site.baseurl }}/img/anytown02.png" alt="" title="screenshot"/>
+</div>
