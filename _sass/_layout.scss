@@ -15,7 +15,7 @@
    width: 33%;
 
    top: 10px;
-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
+   box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
    z-index: 900;
  }
 
@@ -30,30 +30,20 @@ box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
    font-size: 24px;
  }
 
-
  .other {
    border-radius: 40px;
  }
+
  .icon-bar a:hover {
      background-color: $theme-color-lightdark;
      border-radius: 0px;
  }
+
  .active {
    background-color: $grey-color-dark;
    border-radius: 0px;
  }
 
-
-.site-title {
-font-size: 20px;
-line-height: $nav-height;
-letter-spacing: -1px;
-margin-bottom: 0;
-&:hover {
-text-decoration: none;
-color: $theme-color;
-    }
-}
 .banner{
   width: 100%;
   height: 300px;
@@ -63,7 +53,6 @@ color: $theme-color;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 
-
   line-height: 3em;
   z-index: 25;
   line-height: 3em;
@@ -71,8 +60,6 @@ color: $theme-color;
   header-bar{
   }
 }
-
-
 
 .header-bar{
 background-color: rgba(0,0,0,0.5);
@@ -96,8 +83,6 @@ padding-top: 100px;
       color: $grey-color-light;
         font-size:25px;
     }
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
 }
 
 /**
@@ -233,9 +218,6 @@ margin-right: 5px;
 margin-left: 5px;
 margin-top: 10px;
 
-
-//padding-top: 20px;
-//padding-bottom: 20px;
 z-index: 999;
 border-radius: 10px;
 border-style: hidden;
@@ -243,15 +225,11 @@ overflow: hidden;
 
 }
 .thumbnail{
-//z-index: 1000;
 width: 100%;
 height: 230px;
 overflow: hidden;
-//border-radius: 10px;
-
 }
 .thumbnail img{
-//z-index: 120;
 width: 500px;
 height: auto;
 position: relative;
@@ -267,7 +245,7 @@ width: 100%;
 height: 230px;
 }
 .thumbnail a span {
-transition: opacity 0.3s ease; /* Add transition for hover effects */
+transition: opacity 0.3s ease;
 opacity: 0;
 position: absolute;
 top: 0;
