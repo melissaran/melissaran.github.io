@@ -5,7 +5,6 @@ description: random modular city, take one
 img: /img/anytown01.png
 ---
 
-hello
 Project of winter, 2017. Second major human habitat project.
 
 <div class="img_row">
