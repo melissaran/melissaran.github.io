@@ -2,9 +2,16 @@
 layout: post
 title: sanctuary at sea
 description: habitat on water.
-img: /img/sas15.png
+img: /img/sasicon.png
 ---
+
 Project of spring, 2018. Second human habitat project.
+
+<a href="https://melissaran.itch.io/sanctuary-at-sea">
+<span class="biglink">
+    download on itch.io
+</span>
+</a>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/sas14.png" alt="" title="screenshot"/>
@@ -12,22 +19,17 @@ Project of spring, 2018. Second human habitat project.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xjvgdq2FDt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--
-<div style="text-align:center;width:100%;">
-   <iframe style="width:100%;border-style:hidden;" src="/SanctuaryAtSea" width="960" scrolling="no" height="620"></iframe>
-</div>-->
-
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/sas13.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Screenshots of the final product.
 </div>
+Sanctuary At Sea is a procedural art generator. Players generate an infinite variety of homes with the press of a key, on a small island or right on a vast sea!
+Each home is algorithm generated and unique, from it’s volume, to the arrangement of its windows.
+Sanctuary at Sea was made as a piece of art, from the algorithms to the final visualization.
 
-Infinite computer-generated homes on the infinite ocean. Each one has a unique volume. It's art. I'll put a link to itch.io where you can download it soon. The desktop version looks better than web version.
-<br/>
-Below are intermediate stages of this project. I made many compromises, hard decisions and bad decisions while making this project, a few of which I am about to share.
-
+Below are intermediate stages of this project, and then a simple explanation of my process. I made many compromises, hard decisions and bad decisions while making this project, though in the end, I'm very happy with it's reception.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/sas1.png" alt="" title="stage1"/>
@@ -63,13 +65,21 @@ Below are intermediate stages of this project. I made many compromises, hard dec
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/sas15.png" alt="" title="stage2"/>
 </div>
+<br/>
 
-<br/><br/><br/>
+Here is a rough outline of the algorithm:
+1) The volume of the house is randomly determined, and represented with a 3d array.
+2) The walls of the house are “unwrapped” from the volume, and flattened into 2d arrays. Modules like windows, with varying heights and widths can then be randomly inserted into the wall.
+3) Roofs are generated from the volume with one of two algorithms: one for an A roof, one for a hipped roof. Roofs are represented by 3d arrays.
+4) All arrays are finally translated from data to a beautiful building, during the final stage of construction! Some mesh operations are necessary, like combining and generating new UVs, so that the textures of modules (the walls, roof pieces, etc) look non-repetitive.
 
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/skybox.gif" alt="" title="stage2"/>
+</div>
+<br/>
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+Sanctuary At Sea also features a dynamically lit skybox, with billowing clouds and changing colors. It’s not a particle system or a video, but one shader!
+Here’s the rough idea behind the skybox shader:
+The sun is represented by a vector. All effects are some operation using the sun vector, and the “normal” of the clouds. For example, the halo effect is a combination of the cloud alpha, and the dot product of the cloud normal and the sun vector. (for extra bump, the clouds are normal mapped!)
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<iframe width="682" height="384" src="https://www.youtube.com/embed/qBtjZltZlKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,54 +2,39 @@
 layout: post
 title: plus adventure
 description: a community fangame
-img: /img/1.jpg
+img: /img/twotunnelsgif.gif
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Project of fall 20018. A BNHA fan game, the collective effort of many people!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+200+ people have joined our Discord server to collaborate with us, thank you all!
+This project really can't be summarized in one page, so check out its Tumblr, and itch.io!
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+<a href="https://melissaran.itch.io/plus-adventure">
+<span class="biglink">
+    download on itch.io
+</span>
+</a>
 
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+<a href="https://plusadventure.tumblr.com">
+<span class="biglink">
+    more info + fun on tumblr
+</span>
+</a>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col two" src="https://66.media.tumblr.com/0a409222e24e8ca9981a178319bd3f2f/tumblr_pgly9jAPgt1xd50f0o4_640.gif" alt="" title="screenshot"/>
+	<img class="col one" src="https://66.media.tumblr.com/b93206aff41798d2f61dad3364316767/tumblr_pi25po0i4A1xd50f0o2_r1_400.gif" alt="" title="screenshot"/>
 </div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="img_row">
+	<img class="col three" src="https://66.media.tumblr.com/f1ed1296caea28bc0e781d31a33d6663/tumblr_pgz7ryYq041xd50f0o1_500.gif" alt="" title="screenshot"/>
+</div>
+<div class="img_row">
+	<img class="col three" src="https://66.media.tumblr.com/b8b5c9af1ae7772811a4f03056915964/tumblr_pi25po0i4A1xd50f0o4_r1_1280.gif" alt="" title="screenshot"/>
 </div>
 
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col one" src="https://66.media.tumblr.com/d6519fbedd22cb03c201384ba3c7ddc1/tumblr_peewbj3lv81xd50f0o1_640.gif" alt="" title="screenshot"/>
+	<img class="col one" src="https://66.media.tumblr.com/f0a492a02986b60c5cf70ce50abb77ee/tumblr_pfwce6hhrD1xd50f0o4_r1_640.gif" alt="" title="screenshot"/>
+	<img class="col one" src="https://66.media.tumblr.com/9e5d92ac2c84749806fa1446053de051/tumblr_peewbj3lv81xd50f0o3_1280.gif" alt="" title="screenshot"/>
+</div>

@@ -2,9 +2,8 @@
 layout: post
 title: my art
 description:   
-img: /img/1.jpg
+img: /img/myarticon.png
 ---
+Redirecting to my deviantart...
 
 <meta http-equiv="refresh" content="0; URL='https://www.deviantart.com/ihadtopickaname'" />
-
-Redirecting to my deviantart...

@@ -9,11 +9,14 @@
    border-radius: 20px;
    background-color: $theme-color;
 
-   position:fixed;
+   position: fixed;
+   margin-left: -150px;
+   left: 50%;
 
-   margin-left: 33%;
+   width: 300px;
 
-   width: 33%;
+   height: 40px;
+
 
    top: 10px;
    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
@@ -26,9 +29,10 @@
    float: left;
    text-align: center;
    width: 20%;
-   padding: 12px 0;
+   padding: 9px 0;
+   height: 100%;
    transition: all 0.3s ease;
-   font-size: 24px;
+   font-size: 20px;
  }
 
  .other {
@@ -51,8 +55,8 @@
   margin-top: -100px;
   overflow: hidden;
   text-align: center;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
 
   line-height: 3em;
   z-index: 25;
@@ -77,12 +81,13 @@ padding-top: 100px;
     z-index: 30;
     h1{
         color: white;
-        font-size:75px;
+        font-size:64px;
+        font-family: $header-font-family;
     }
     h2{
       font-family: $base-font-family;
       color: $grey-color-light;
-        font-size:25px;
+        font-size:16px;
     }
 }
 
@@ -214,7 +219,7 @@ margin-left: 5px;
 margin-top: 10px;
 
 z-index: 999;
-border-radius: 10px;
+border-radius: 4px;
 border-style: hidden;
 overflow: hidden;
 
@@ -228,8 +233,7 @@ overflow: hidden;
 height: 230px;
 width:auto;
 position: relative;
-/*
-left: -50%;*/
+
 }
 .thumbnail a{
 
@@ -279,15 +283,15 @@ float: right;
 }
 .one {
 width:33.33%;
-border-radius: 15px;
+border-radius: 10px;
 }
 .two {
 width: 66.66%;
-border-radius: 15px;
+border-radius: 10px;
 }
 .three{
 width: 100%;
-border-radius: 15px;
+border-radius: 10px;
 }
 .caption{
 height: 100%;
@@ -299,13 +303,17 @@ font-size: $caption_font_size;
 
 .biglink{
   margin: auto;
-  height:30px;
+  width: 200px;
+  padding: 10px;
   text-align: center;
-  border-width:2px;
+  text-anchor: middle;
+  border-width:1px;
   border-radius: 15px;
-  border-color: $grey-color;
+  border-style: solid;
+  border-color: $grey-color-light;
+  background: $theme-color;
+  color: rgb(255, 255, 255);
 }
-.biglink a:hover{
-  width:100%;
-  color: $theme-color;
+.biglink:hover{
+  background: $theme-color-lightdark;
 }

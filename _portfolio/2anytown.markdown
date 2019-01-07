@@ -2,16 +2,17 @@
 layout: post
 title: anytown
 description: randomized procedural city, take one
-img: /img/anytown01.png
+img: /img/anytownicon.png
 ---
 
 Project of winter, 2017. First major human habitat project.
 
-<a href="http://google.com">
-    <div class="biglink">
-        Hello world
-    </div>
+<a href="https://melissaran.itch.io/anytown">
+<span class="biglink">
+    download on itch.io
+</span>
 </a>
+
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/anytown01.png" alt="" title="example image"/>
