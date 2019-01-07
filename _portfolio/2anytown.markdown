@@ -11,7 +11,7 @@ Project of winter, 2017. First major human habitat project.
 	<img class="col three" src="{{ site.baseurl }}/img/anytown01.png" alt="" title="example image"/>
 </div>
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/lz2xBW96flg?vq=hd720" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lz2xBW96flg?vq=hd720" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/anytown1.PNG" alt="" title="screenshot"/>
