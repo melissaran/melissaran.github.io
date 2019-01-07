@@ -6,8 +6,12 @@ img: /img/anytown01.png
 ---
 
 Project of winter, 2017. First major human habitat project.
-<div class="biglink" href="https://ihadtopickaname.deviantart.com/">download on itch.io</div>
 
+<a href="http://google.com">
+    <div class="biglink">
+        Hello world
+    </div>
+</a>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/anytown01.png" alt="" title="example image"/>
