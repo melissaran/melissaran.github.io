@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Art
+title: my art
 description:   
 img: /img/1.jpg
 ---

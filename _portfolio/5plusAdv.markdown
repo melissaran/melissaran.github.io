@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plus Adventure
+title: plus adventure
 description: a community fangame
 img: /img/1.jpg
 ---
