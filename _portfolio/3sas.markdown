@@ -10,7 +10,7 @@ Project of spring, 2018. Second human habitat project.
 	<img class="col three" src="{{ site.baseurl }}/img/sas14.png" alt="" title="screenshot"/>
 </div>
 
-<iframe width="1153" height="649" src="https://www.youtube.com/embed/Xjvgdq2FDt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Xjvgdq2FDt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 <div style="text-align:center;width:100%;">
