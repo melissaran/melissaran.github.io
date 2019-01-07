@@ -6,7 +6,7 @@ img: /img/anytown01.png
 ---
 
 Project of winter, 2017. First major human habitat project.
-<a class="biglink" href="https://ihadtopickaname.deviantart.com/">download on itch.io</i></a>
+<div class="biglink" href="https://ihadtopickaname.deviantart.com/">download on itch.io</div>
 
 
 <div class="img_row">
