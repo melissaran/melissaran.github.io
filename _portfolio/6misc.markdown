@@ -1,6 +1,6 @@
 ---
 layout: post
-title: earlier works
+title: misc
 description: machine learning feat. fox-creatures?
 img: /img/happyy.png
 ---

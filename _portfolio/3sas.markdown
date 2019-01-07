@@ -4,15 +4,15 @@ title: sanctuary at sea
 description: habitat on water.
 img: /img/sas15.png
 ---
-Project of spring, 2018. Third human habitat project.
+Project of spring, 2018. Second human habitat project.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/sas14.png" alt="" title="screenshot"/>
 </div>
-
+<!--
 <div style="text-align:center;width:100%;">
    <iframe style="width:100%;border-style:hidden;" src="/SanctuaryAtSea" width="960" scrolling="no" height="620"></iframe>
-</div>
+</div>-->
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/sas13.png" alt="" title="example image"/>

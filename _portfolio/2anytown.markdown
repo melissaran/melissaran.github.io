@@ -5,7 +5,7 @@ description: randomized procedural city, take one
 img: /img/anytown01.png
 ---
 
-Project of winter, 2017. Second major human habitat project.
+Project of winter, 2017. First major human habitat project.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/anytown01.png" alt="" title="example image"/>
