@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Plus Adventure
+description: a community fangame
 img: /img/1.jpg
 ---
 

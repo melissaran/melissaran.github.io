@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sanctuary at sea
-description: homes on water.
+description: habitat on water.
 img: /img/sas15.png
 ---
 Project of spring, 2018. Third human habitat project.

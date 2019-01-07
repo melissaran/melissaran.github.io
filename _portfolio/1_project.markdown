@@ -1,7 +1,7 @@
 ---
 layout: post
 title: anytown
-description: random modular city, take one
+description: randomized procedural city, take one
 img: /img/anytown01.png
 ---
 
