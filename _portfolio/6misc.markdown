@@ -2,7 +2,7 @@
 layout: post
 title: misc
 description: machine learning feat. fox-creatures?
-img: /img/happyy.png
+img: /img/happyy2.png
 ---
 
 Attack with positivity! Mobile game using sentiment analysis! Winter 2017
