@@ -8,6 +8,7 @@
    border-style: hidden;
    border-radius: 20px;
    background-color: $theme-color;
+
    position:fixed;
 
    margin-left: 33%;
@@ -231,7 +232,7 @@ overflow: hidden;
 }
 .thumbnail img{
 height: 230px;
-width:auto;
+width:230px;
 position: relative;
 left: -50%;
 }
@@ -242,8 +243,7 @@ position: relative;
 width: 100%;
 height: 230px;
 }
-.thumbnail a span {/*
-transition: opacity 0.3s ease;*/
+.thumbnail a span {
 opacity: 0;
 position: absolute;
 top: 0;
