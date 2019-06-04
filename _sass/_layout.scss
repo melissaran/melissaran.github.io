@@ -5,80 +5,72 @@
 
  .icon-bar {
    overflow: hidden;
-   border-style: hidden;
-   border-radius: 20px;
-   background-color: $theme-color;
-
+   background-color: white;
    position: fixed;
-   margin-left: -150px;
-   left: 50%;
 
-   width: 300px;
+   width: 100%;
 
    height: 40px;
 
-
-   top: 10px;
-   box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.3);
+   top: 0px;
+   box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.1);
    z-index: 900;
  }
 
  .icon-bar a {
    border-style: hidden;
-   color: white;
-   float: left;
+   color: lightgray;
+   float: right;
    text-align: center;
-   width: 20%;
-   padding: 9px 0;
+   padding-top: 9px;
+   width: 40px;
    height: 100%;
    transition: all 0.3s ease;
    font-size: 20px;
  }
 
  .other {
-   border-radius: 40px;
  }
 
  .icon-bar a:hover {
-     background-color: $theme-color-lightdark;
-     border-radius: 0px;
+   color: $theme-color;
  }
 
  .active {
-   background-color: $grey-color-dark;
-   border-radius: 0px;
+   color: $theme-color;
  }
 
 .banner{
   width: 100%;
-  height: 300px;
+  height: 200px;
   margin-top: -100px;
   overflow: hidden;
   text-align: center;
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px;
+  //border-bottom-left-radius: 4px;
+  //border-bottom-right-radius: 4px;
 
   line-height: 3em;
   z-index: 25;
   line-height: 3em;
   background-image: url("https://img00.deviantart.net/5cbd/i/2018/141/b/4/clustered_homes_by_ihadtopickaname-dcc5v2o.png");
+  margin-bottom: 10px;
   header-bar{
   }
 }
 
 .header-bar{
-background-color: rgba(0,0,0,0.5);
+background-color: rgba(0,0,0,0.75);
 
 padding-top: 100px;
     position: relative;
-    font-size: 20px;
     display: block;
 
     width: 100%;
     height: 100%;
-    text-align: center;
-    line-height: 3em;
+    text-align: left;
+    line-height: 7em;
     z-index: 30;
+    padding-right: 10px;
     h1{
         color: white;
         font-size:64px;
@@ -86,7 +78,7 @@ padding-top: 100px;
     }
     h2{
       font-family: $base-font-family;
-      color: $grey-color-light;
+      color: lightgray;
         font-size:16px;
     }
 }
@@ -209,38 +201,36 @@ display: table;
 clear: both;
 }
 .project {
-width: calc(33.33% - 10px);
-height: 230px;
+//width: calc(50% - 10px);
+width: 50%;
+//margin-right: 10px;
+margin-bottom: 10px;
+
+height: 200px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
-margin-right: 5px;
-margin-left: 5px;
-margin-top: 10px;
-
 z-index: 999;
-border-radius: 4px;
-border-style: hidden;
 overflow: hidden;
 
 }
 .thumbnail{
-width: 100%;
-height: 230px;
-overflow: hidden;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 .thumbnail img{
-height: 230px;
-width:auto;
+width:100%;
+//height: auto;
+object-fit: cover;
 position: relative;
 
 }
 .thumbnail a{
-
 float: left;
 position: relative;
 width: 100%;
-height: 230px;
+height: 100%;
 }
 .thumbnail a span {
 opacity: 0;
@@ -268,7 +258,7 @@ height: $img_height;
 width: 100%;
 overflow: hidden;
 box-sizing:border-box;
-padding: $img_spacing;
+//padding: $img_spacing;
 }
 .col{
 width: 100%;
@@ -276,22 +266,19 @@ height: 100%;
 float: left;
 object-fit: cover;
 box-sizing:border-box;
-padding: $img_spacing;
+//padding: $img_spacing;
 }
 .right{
 float: right;
 }
 .one {
 width:33.33%;
-border-radius: 10px;
 }
 .two {
 width: 66.66%;
-border-radius: 10px;
 }
 .three{
 width: 100%;
-border-radius: 10px;
 }
 .caption{
 height: 100%;
@@ -309,8 +296,6 @@ font-size: $caption_font_size;
   text-anchor: middle;
   border-width:1px;
   border-radius: 15px;
-  border-style: solid;
-  border-color: $grey-color-light;
   background: $theme-color;
   color: rgb(255, 255, 255);
 }
