@@ -2,21 +2,21 @@
 layout: post
 title: the coffeeshop AU
 description: AO3, but in 3d?
-img: /img/twotunnelsgif.gif
+img: https://66.media.tumblr.com/23d39f8e99a7b7ac69ad37605d4a8f1d/tumblr_pmqh7xRxVW1ukp1fxo2_250.gif
 ---
 
-Project in early 20019. A game as a platform for people to write fan fictions!
+Project in early 2019. A game as a platform for people to write fan fictions! Plus a web portal where people type their "plays," which can be viewed by anyone while paying the game.
 
-200+ people have joined our Discord server to collaborate with us and have a fun time!
+Thank you to the 200+ people on our Discord! It's a fun time.
 This page is a WIP, but meanwhile, you can...
 
-<a href="https://melissaran.itch.io/plus-adventure">
+<a href="https://melissaran.itch.io/coffeeshop-au">
 <span class="biglink">
     play it on your browser!
 </span>
 </a>
 
-<a href="https://plusadventure.tumblr.com">
+<a href="https://take-it-to-art.tumblr.com/tagged/coffeeshop-au-project">
 <span class="biglink">
     more info + fun on tumblr
 </span>

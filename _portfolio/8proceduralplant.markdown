@@ -2,39 +2,32 @@
 layout: post
 title: procedural plants!
 description: 100% procedural, blueprint to mesh
-img: /img/twotunnelsgif.gif
+img: https://66.media.tumblr.com/8d580831e4daace00551ad308de976fb/tumblr_plloo9dRI21y50ux2o1_400.gif
 ---
 
-Project of fall 20018. A BNHA fan game, the collective effort of many people!
-
-200+ people have joined our Discord server to collaborate with us, thank you all!
-This project really can't be summarized in one page, so check out its Tumblr, and itch.io!
-
-<a href="https://melissaran.itch.io/plus-adventure">
-<span class="biglink">
-    download on itch.io
-</span>
-</a>
-
-<a href="https://plusadventure.tumblr.com">
-<span class="biglink">
-    more info + fun on tumblr
-</span>
-</a>
+Project from early 2019. Procedural plants made from scratch. Procedural mesh and skinning. Also, they can be bred! It was a fun time. Below is the final outcome, and screenshots from over the course of the week or so it took to make this!
 
 <div class="img_row">
-	<img class="col two" src="https://66.media.tumblr.com/0a409222e24e8ca9981a178319bd3f2f/tumblr_pgly9jAPgt1xd50f0o4_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/b93206aff41798d2f61dad3364316767/tumblr_pi25po0i4A1xd50f0o2_r1_400.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/8d580831e4daace00551ad308de976fb/tumblr_plloo9dRI21y50ux2o1_400.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/78a392bed3ec877dcdfca3e23948d855/tumblr_plloo9dRI21y50ux2o4_r1_400.gif" alt="" title="screenshot"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="https://66.media.tumblr.com/f1ed1296caea28bc0e781d31a33d6663/tumblr_pgz7ryYq041xd50f0o1_500.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/597c7dd224bdfd2ea052b8368a4f6a17/tumblr_plloo9dRI21y50ux2o2_400.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/cf22eb86b7bf966f6d29bd1f0ddb5df1/tumblr_plloo9dRI21y50ux2o3_400.gif" alt="" title="screenshot"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="https://66.media.tumblr.com/b8b5c9af1ae7772811a4f03056915964/tumblr_pi25po0i4A1xd50f0o4_r1_1280.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/533396879044509714/wheehee.png" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/533513315884728320/randoyay.png?width=400&height=271" alt="" title="screenshot"/>
 </div>
-
 <div class="img_row">
-	<img class="col one" src="https://66.media.tumblr.com/d6519fbedd22cb03c201384ba3c7ddc1/tumblr_peewbj3lv81xd50f0o1_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/f0a492a02986b60c5cf70ce50abb77ee/tumblr_pfwce6hhrD1xd50f0o4_r1_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/9e5d92ac2c84749806fa1446053de051/tumblr_peewbj3lv81xd50f0o3_1280.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/533736123386691605/itlooksderk.png?width=400&height=213" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/533739564800540682/yey.png?width=397&height=300" alt="" title="screenshot"/>
+</div>
+<div class="img_row">
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/534121158447202354/noiceflowees.png?width=250&height=300" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/534179652432822293/plantfamily.png?width=400&height=298" alt="" title="screenshot"/>
+</div>
+<div class="img_row">
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/534482865665081374/hiphapfamily.png?width=380&height=301" alt="" title="screenshot"/>
+	<img class="col half" src="https://media.discordapp.net/attachments/476364882644697088/535195146325721109/fleshyfloweshere.png" alt="" title="screenshot"/>
 </div>

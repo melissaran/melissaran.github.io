@@ -5,7 +5,7 @@ description: a community fangame
 img: /img/twotunnelsgif.gif
 ---
 
-Project of fall 20018. A BNHA fan game, the collective effort of many people!
+Project of fall 2018. A BNHA fan game, the collective effort of many people!
 
 200+ people have joined our Discord server to collaborate with us, thank you all!
 This project really can't be summarized in one page, so check out its Tumblr, and itch.io!
