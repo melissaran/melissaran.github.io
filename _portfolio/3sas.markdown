@@ -82,4 +82,4 @@ Sanctuary At Sea also features a dynamically lit skybox, with billowing clouds a
 Here’s the rough idea behind the skybox shader:
 The sun is represented by a vector. All effects are some operation using the sun vector, and the “normal” of the clouds. For example, the halo effect is a combination of the cloud alpha, and the dot product of the cloud normal and the sun vector. (for extra bump, the clouds are normal mapped!)
 
-<iframe width="682" height="384" src="https://www.youtube.com/embed/qBtjZltZlKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="384" src="https://www.youtube.com/embed/qBtjZltZlKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

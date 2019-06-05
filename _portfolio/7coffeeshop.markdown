@@ -23,18 +23,14 @@ This page is a WIP, but meanwhile, you can...
 </a>
 
 <div class="img_row">
-	<img class="col two" src="https://66.media.tumblr.com/0a409222e24e8ca9981a178319bd3f2f/tumblr_pgly9jAPgt1xd50f0o4_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/b93206aff41798d2f61dad3364316767/tumblr_pi25po0i4A1xd50f0o2_r1_400.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/420d4dbde4a20dfb8e4d5d884869ccc3/tumblr_pnrqqyG0Wp1ukp1fxo3_500.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/bea71e66264aaf89dbd09f5576d763bf/tumblr_pn1p8fh3gQ1ukp1fxo2_500.gif" alt="" title="screenshot"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="https://66.media.tumblr.com/f1ed1296caea28bc0e781d31a33d6663/tumblr_pgz7ryYq041xd50f0o1_500.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/6c0aeff86a2e43a14964b2aee4342260/tumblr_pmqh7xRxVW1ukp1fxo1_500.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/eecab63d8841faa7f9040a8b6887f890/tumblr_pmmwvqxtLR1ukp1fxo2_r1_500.gif" alt="" title="screenshot"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="https://66.media.tumblr.com/b8b5c9af1ae7772811a4f03056915964/tumblr_pi25po0i4A1xd50f0o4_r1_1280.gif" alt="" title="screenshot"/>
-</div>
-
-<div class="img_row">
-	<img class="col one" src="https://66.media.tumblr.com/d6519fbedd22cb03c201384ba3c7ddc1/tumblr_peewbj3lv81xd50f0o1_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/f0a492a02986b60c5cf70ce50abb77ee/tumblr_pfwce6hhrD1xd50f0o4_r1_640.gif" alt="" title="screenshot"/>
-	<img class="col one" src="https://66.media.tumblr.com/9e5d92ac2c84749806fa1446053de051/tumblr_peewbj3lv81xd50f0o3_1280.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/6c0aeff86a2e43a14964b2aee4342260/tumblr_pmqh7xRxVW1ukp1fxo1_500.gif" alt="" title="screenshot"/>
+	<img class="col half" src="https://66.media.tumblr.com/e59ca39039c3c648e95d6cfea1c2a16c/tumblr_pnrqqyG0Wp1ukp1fxo2_500.gif" alt="" title="screenshot"/>
 </div>
