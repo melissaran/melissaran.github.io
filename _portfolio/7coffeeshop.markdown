@@ -28,9 +28,8 @@ This page is a WIP, but meanwhile, you can...
 </div>
 <div class="img_row">
 	<img class="col half" src="https://66.media.tumblr.com/6c0aeff86a2e43a14964b2aee4342260/tumblr_pmqh7xRxVW1ukp1fxo1_500.gif" alt="" title="screenshot"/>
-	<img class="col half" src="https://66.media.tumblr.com/eecab63d8841faa7f9040a8b6887f890/tumblr_pmmwvqxtLR1ukp1fxo2_r1_500.gif" alt="" title="screenshot"/>
+  <img class="col half" src="https://66.media.tumblr.com/e59ca39039c3c648e95d6cfea1c2a16c/tumblr_pnrqqyG0Wp1ukp1fxo2_500.gif" alt="" title="screenshot"/>
 </div>
 <div class="img_row">
-	<img class="col half" src="https://66.media.tumblr.com/6c0aeff86a2e43a14964b2aee4342260/tumblr_pmqh7xRxVW1ukp1fxo1_500.gif" alt="" title="screenshot"/>
-	<img class="col half" src="https://66.media.tumblr.com/e59ca39039c3c648e95d6cfea1c2a16c/tumblr_pnrqqyG0Wp1ukp1fxo2_500.gif" alt="" title="screenshot"/>
+<img class="col three" src="https://66.media.tumblr.com/eecab63d8841faa7f9040a8b6887f890/tumblr_pmmwvqxtLR1ukp1fxo2_r1_500.gif" alt="" title="screenshot"/>
 </div>
