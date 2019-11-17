@@ -49,7 +49,9 @@
   line-height: 3em;
   z-index: 25;
   line-height: 3em;
-  background-image: url("https://img00.deviantart.net/5cbd/i/2018/141/b/4/clustered_homes_by_ihadtopickaname-dcc5v2o.png");
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fadb95a3-9d11-4890-8737-c9df950e7bad/dcghjzn-45c570ae-bf29-4070-bdd2-8e2bb8ceb41d.png/v1/fill/w_1024,h_768,q_80,strp/life_inside__by_ihadtopickaname_dcghjzn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZmFkYjk1YTMtOWQxMS00ODkwLTg3MzctYzlkZjk1MGU3YmFkXC9kY2doanpuLTQ1YzU3MGFlLWJmMjktNDA3MC1iZGQyLThlMmJiOGNlYjQxZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kpGwgMVnQXcz3JXJ2DVaguOL8Y856IA4by4Kx64mG1c");
+  background-size: 100%;
+  
   margin-bottom: 10px;
 
   margin-right: 5px;
@@ -306,4 +308,13 @@ font-size: $caption_font_size;
 }
 .biglink:hover{
   background: $theme-color-lightdark;
+}
+
+.galimg{
+  width: 100%;
+  height: auto;
+}
+.galimg img{
+  width: 100%;
+  height: auto;
 }
