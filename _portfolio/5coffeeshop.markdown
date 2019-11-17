@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the coffeeshop AU
-description: AO3, but in 3d?
+description: 3D playwriting platform
 img: https://66.media.tumblr.com/23d39f8e99a7b7ac69ad37605d4a8f1d/tumblr_pmqh7xRxVW1ukp1fxo2_250.gif
 ---
 

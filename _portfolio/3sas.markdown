@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sanctuary at sea
-description: habitat on water.
+description: more procedural buildings!
 img: /img/sasicon.png
 ---
 

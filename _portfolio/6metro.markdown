@@ -1,7 +1,7 @@
 ---
 layout: post
 title: metro provement
-description: rebuild an algorithm generated city
+description: rebuild generated city
 img: /img/metrogif5.gif
 ---
 

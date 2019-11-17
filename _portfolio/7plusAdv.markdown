@@ -1,7 +1,7 @@
 ---
 layout: post
 title: plus adventure
-description: a community fangame
+description: a massive collab!
 img: /img/twotunnelsgif.gif
 ---
 
