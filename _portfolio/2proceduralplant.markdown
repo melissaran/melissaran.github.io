@@ -1,6 +1,6 @@
 ---
 layout: post
-title: procedural plants!
+title: cosmos
 description: 100% procedural, blueprint to mesh
 img: https://66.media.tumblr.com/8d580831e4daace00551ad308de976fb/tumblr_plloo9dRI21y50ux2o1_400.gif
 ---
