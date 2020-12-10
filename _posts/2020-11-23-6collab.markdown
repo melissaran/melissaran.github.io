@@ -1,0 +1,78 @@
+---
+layout: post
+title: Collaborative fun!
+img: https://66.media.tumblr.com/b93206aff41798d2f61dad3364316767/tumblr_pi25po0i4A1xd50f0o2_r1_400.gif
+date:   2020-11-23 22:50:38 -0500
+---
+
+
+<div class="col2">
+<iframe width="100%" height="200px" src="https://www.youtube.com/embed/cKm2ZAwHpxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+
+<h2>
+Fruit Fight
+</h2>
+Multiplayer game with Socket.io
+<br/>
+Hosted on Openprocessing
+<p></p>
+<div class= "btn" style="cursor: pointer;" onclick="window.location='https://www.openprocessing.org/sketch/1017461';">
+    Play on Openprocessing!
+</div>
+<p></p>
+Assignment for CS44N, collab with <a href="https://caseymanning.github.io/">Casey Manning</a> :)
+<p></p>
+thanks chris for the video i love it
+</div>
+
+<p></p>
+
+
+<div class="col2">
+<h2>
+Plus Adventure
+</h2>
+The collective effort of many people!
+Thanks to the 200+ people on our Discord <3
+
+<a href="https://melissaran.itch.io/plus-adventure">
+<span class="btn">
+    On itch.io
+</span>
+</a>
+
+<a href="https://plusadventure.tumblr.com">
+<span class="btn">
+    Fun on tumblr
+</span>
+</a>
+
+<div class="pic" data-content="plus adventure">
+	<img src="https://66.media.tumblr.com/0a409222e24e8ca9981a178319bd3f2f/tumblr_pgly9jAPgt1xd50f0o4_640.gif"/>
+</div>
+<div class="pic" data-content="plus adventure">
+	<img src="https://66.media.tumblr.com/b93206aff41798d2f61dad3364316767/tumblr_pi25po0i4A1xd50f0o2_r1_400.gif"/>
+</div>
+<div class="pic" data-content="plus adventure">
+	<img src="https://66.media.tumblr.com/f1ed1296caea28bc0e781d31a33d6663/tumblr_pgz7ryYq041xd50f0o1_500.gif"/>
+</div>
+
+<div class="pic" data-content="plus adventure">
+	<img src="https://66.media.tumblr.com/b8b5c9af1ae7772811a4f03056915964/tumblr_pi25po0i4A1xd50f0o4_r1_1280.gif"/>
+</div>
+<div class="pic" data-content="plus adventure">
+	<img src="https://66.media.tumblr.com/d6519fbedd22cb03c201384ba3c7ddc1/tumblr_peewbj3lv81xd50f0o1_640.gif">
+  </div>
+  <div class="pic" data-content="plus adventure">
+	<img class="col one" src="https://66.media.tumblr.com/f0a492a02986b60c5cf70ce50abb77ee/tumblr_pfwce6hhrD1xd50f0o4_r1_640.gif"/>
+  </div>
+  <div class="pic" data-content="plus adventure">
+	<img class="col one" src="https://66.media.tumblr.com/9e5d92ac2c84749806fa1446053de051/tumblr_peewbj3lv81xd50f0o3_1280.gif"/>
+  </div>
+
+</div>
+
+<p></p>
