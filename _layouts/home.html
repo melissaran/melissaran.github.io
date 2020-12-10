@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <div class="project-container">
+      <div class="bg">
+
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%B, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          {%- if post.link -%}
+
+
+          {%- if post.img -%}
+          <a href="{{ post.link | escape }}">
+            <div data-content="{{ post.title | escape }}" class="thumbnail">
+              <img src="{{ post.img | escape }}">
+            </div>
+          </a>
+          {% else %}
+            <a class="post-link" href="{{ post.link | escape }}">
+              {{ post.title | escape }}
+            </a>
+          {%- endif -%}
+
+
+
+          {% else %}
+
+
+          {%- if post.img -%}
+          <a href="{{ post.url | relative_url }}">
+            <div data-content="{{ post.title | escape }}" class="thumbnail">
+              <img src="{{ post.img | escape }}">
+            </div>
+          </a>
+          {% else %}
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          {%- endif -%}
+
+
+          {%- endif -%}
+
+        </h3>
+
+        {%- if post.show_excerpt -%}
+          <div class="preview">
+            {{ post.excerpt }}
+          </div>
+        {%- endif -%}
+      </li>
+    </div>
+    </div>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
