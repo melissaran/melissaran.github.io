@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Shaders"
+date:   2020-12-0 22:50:38 -0500
+categories: jekyll update
+img: /img/shader/clothbellshader.gif
+---
+<div class="col2">
+
+<iframe width="100%" height="300px" frameborder="0" src="https://www.shadertoy.com/embed/WdGcRy?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+<iframe width="100%" height="300px" frameborder="0" src="https://www.shadertoy.com/embed/wsGyDt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+<iframe width="100%" height="300px" frameborder="0" src="https://www.shadertoy.com/embed/tdKcWG?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+<h2>
+Raymarching
+</h2>
+A few attempts. The last one is the most correct, implements SSAO.
+<p></p>
+<div class= "btn" style="cursor: pointer;" onclick="window.location='https://www.openprocessing.org/sketch/1017461';">
+    on shadertoy
+</div>
+
+</div>
+<h2>
+Future New Silver Medal 2019
+</h2>
+<iframe width="100%" height="384" src="https://www.youtube.com/embed/qBtjZltZlKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
