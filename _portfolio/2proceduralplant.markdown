@@ -1,7 +1,11 @@
 ---
 layout: post
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: procedural plants
+=======
+title: cosmos
+>>>>>>> parent of dbf5a3b... test
 =======
 title: cosmos
 >>>>>>> parent of dbf5a3b... test
@@ -10,7 +14,11 @@ img: https://66.media.tumblr.com/8d580831e4daace00551ad308de976fb/tumblr_plloo9d
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project from early 2019, also known as Cosmos. Procedural plants made from scratch. Procedural mesh and skinning. Also, they can be bred! It was a fun time. Below is the final outcome, and screenshots from over the course of the week or so it took to make this!
+=======
+Project from early 2019. Procedural plants made from scratch. Procedural mesh and skinning. Also, they can be bred! It was a fun time. Below is the final outcome, and screenshots from over the course of the week or so it took to make this!
+>>>>>>> parent of dbf5a3b... test
 =======
 Project from early 2019. Procedural plants made from scratch. Procedural mesh and skinning. Also, they can be bred! It was a fun time. Below is the final outcome, and screenshots from over the course of the week or so it took to make this!
 >>>>>>> parent of dbf5a3b... test
