@@ -2,9 +2,11 @@
 layout: post
 title:  "Art"
 date:   2020-12-0 22:50:38 -0500
-categories: jekyll update
 img: https://cdn.discordapp.com/attachments/704946489423560734/774815855279734794/Untitled_Artwork.png
 ---
+
+<iframe width="100%" height="350px" src="https://www.youtube.com/embed/xKDcXzjNBj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="col2">
 
 <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ygYA6hpRvKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -12,7 +14,25 @@ img: https://cdn.discordapp.com/attachments/704946489423560734/77481585527973479
 <img src ="{{ site.baseurl }}/img/art/char0.png">
 </div>
 
+<div class="pic" data-content="this is a caption">
+<img src ="https://cdn.discordapp.com/attachments/704946489423560734/804873279538069564/fish2.png">
+</div>
+
+<div class="pic" data-content="this is a caption">
+<img src ="https://cdn.discordapp.com/attachments/704946489423560734/804873333845262376/fish1.png">
+</div>
+
+<div class="pic" data-content="this is a caption">
+<img src ="https://cdn.discordapp.com/attachments/532058349928316951/797976844951224320/Untitled_Artwork.jpg">
+</div>
+
+<div class="pic" data-content="this is a caption">
+<img src ="https://cdn.discordapp.com/attachments/704946489423560734/803480299643600896/untitled1.png">
+</div>
+
+
 <div class="col2">
+
 <div class="pic" data-content="this is a caption">
 <img src ="{{ site.baseurl }}/img/art/char1.png">
 </div>

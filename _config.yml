@@ -3,7 +3,6 @@ author:
   name: GitHub User
   email: mran24@stanford.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  It's my portfolio.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
